@@ -4,11 +4,11 @@ Currently, this repository is used to deposit my scripts and software for OpenBS
 
 List of scripts and software available to date:
 
-# SOFTWARE :
+# Software
 
-xymon-client 4.3.28 pre-compiled for OpenBSD 6.1
-xymon-client 4.3.28 pre-compiled for OpenBSD 6.2
+- xymon-client 4.3.28 pre-compiled for OpenBSD 6.1
+- xymon-client 4.3.28 pre-compiled for OpenBSD 6.2
 
-# SCRIPTS :
+# Scripts
 
-No scripts at the moment
+- No scripts at the moment
